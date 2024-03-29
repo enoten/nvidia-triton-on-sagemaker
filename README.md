@@ -3,3 +3,6 @@ The original code and explation is presented <a href="https://github.com/aws/ama
 
 The code is provided in the notebook <a href="https://github.com/enoten/nvidia-triton-on-sagemaker/blob/main/triron_endpoint_sagemaker_resnet50_deployment.ipynb">triron_endpoint_sagemaker_resnet50_deployment.ipynb
 </a>
+
+<p>About this repo</p>
+This repo contains example of deploying ResNet50 model for Inference on AWS Sagemaker's Endpoint using Nvidia Triton Inference Server
