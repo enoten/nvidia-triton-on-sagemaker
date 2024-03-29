@@ -5,4 +5,4 @@ The code is provided in the notebook <a href="https://github.com/enoten/nvidia-t
 </a>
 
 <h3>About this repo</h3>
-This repo contains example of deploying ResNet50 model for Inference on AWS Sagemaker's Endpoint using Nvidia Triton Inference Server
+This repo contains example of deploying ResNet50 (PyTorch) model for Inference on AWS Sagemaker's Endpoint using Nvidia Triton Inference Server
