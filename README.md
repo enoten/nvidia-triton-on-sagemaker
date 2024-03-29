@@ -5,4 +5,7 @@ The code is provided in the notebook <a href="https://github.com/enoten/nvidia-t
 </a>
 
 <h3>About this repo</h3>
-This repo contains example of deploying ResNet50 (PyTorch) model for Inference on AWS Sagemaker's Endpoint using Nvidia Triton Inference Server
+This repo contains example of deploying ResNet50 (PyTorch *.pt file) model for Inference on AWS Sagemaker's Endpoint using Nvidia Triton Inference Server
+
+<h3>Pt model</h3>
+The way to create PyTorch model is explain in the <a href="https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-triton/resnet50/triton_resnet50.ipynb">post</a>. Tom generate *.pt model please use <a href="https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-triton/resnet50/workspace/pt_exporter.py">script</a> from <a href="https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-triton/resnet50/workspace"> this repo</a>
